@@ -6,7 +6,7 @@
 \alias{fileplyr-package}
 \title{fileplyr}
 \description{
-A package to perform chunkwise processing or split-apply-combine
+A package to perform chunk processing or split-apply-combine
   on data in a delimited file(example: CSV) across multiple cores of a single
   machine with low memory footprint. These functions are a convenient
   wrapper over the versatile package \pkg{datadr}.

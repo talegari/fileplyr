@@ -1,7 +1,7 @@
 Package: fileplyr
 Version: 0.1.0
-Title: chunked processing or split-apply-combine on delimited files(CSV etc)
-Description: Perform chunkwise processing or split-apply-combine on data in a 
+Title: Chunk Processing or Split-Apply-Combine on Delimited Files(CSV Etc)
+Description: Perform chunk processing or split-apply-combine on data in a 
     delimited file(example: CSV) across multiple cores of a single machine with
     low memory footprint. These functions are a convenient wrapper over the
     versatile package 'datadr'.

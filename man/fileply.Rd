@@ -46,7 +46,7 @@ key-value pairs to send to the reduce}
 list or a dataframe or a TRUE(when collect is 'none').
 }
 \description{
-performs chunkwise processing or split-apply-combine on the data
+performs chunk processing or split-apply-combine on the data
   in a delimited file (example: CSV).
 }
 \details{

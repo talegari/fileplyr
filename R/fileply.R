@@ -1,6 +1,6 @@
 #' @title fileply
 #'   
-#' @description performs chunkwise processing or split-apply-combine on the data
+#' @description performs chunk processing or split-apply-combine on the data
 #'   in a delimited file (example: CSV).
 #'   
 #' @details \itemize{\item \strong{Reading Stage:} The delimited file (example:
