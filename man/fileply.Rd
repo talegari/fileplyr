@@ -6,7 +6,7 @@
 \usage{
 fileply(file, groupby, fun = identity, collect = "none",
   temploc = getwd(), nbins = 10, chunk = 50000, spill = 1e+06,
-  cores = 1, buffer = 1e+07, keepddf = FALSE, ...)
+  cores = 1, buffer = 1e+09, keepddf = FALSE, ...)
 }
 \arguments{
 \item{file}{(string) path to input delimited file}
@@ -119,4 +119,3 @@ unlink(outdir, recursive = TRUE)
 unlink("mtcars.csv")
 
 }
-
