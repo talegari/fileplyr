@@ -106,7 +106,7 @@ fileply  <- function(file
                  , chunk        = 5e4
                  , spill        = 1e6
                  , cores        = 1
-                 , buffer       = 1e7
+                 , buffer       = 1e9
                  , keepddf      = FALSE
                  , ...){
 
@@ -294,7 +294,7 @@ fileply  <- function(file
             )
     }
 
-  if(collect == "none"){
+  if(collect == "none" || keepddf){
     message("Output Directory: ", ply_dir)
   }
   message("Done!")
