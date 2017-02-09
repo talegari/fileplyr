@@ -1,5 +1,5 @@
 Package: fileplyr
-Version: 0.1.0
+Version: 0.2.0
 Title: Chunk Processing or Split-Apply-Combine on Delimited Files(CSV Etc)
 Description: Perform chunk processing or split-apply-combine on data in a 
     delimited file(example: CSV) across multiple cores of a single machine with
@@ -16,4 +16,6 @@ Depends:
     tibble (>= 1.2),
     utils
 License: GPL-3
-RoxygenNote: 5.0.1
+URL: https://github.com/talegari/fileplyr
+BugReports: https://github.com/talegari/fileplyr/issues
+RoxygenNote: 6.0.1
