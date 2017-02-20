@@ -25,15 +25,4 @@ A package to perform chunk processing or split-apply-combine
   applications to function comfortably along with a R process running a
   fileplyr job.
 }
-\seealso{
-Useful links:
-\itemize{
-  \item \url{https://github.com/talegari/fileplyr}
-  \item Report bugs at \url{https://github.com/talegari/fileplyr/issues}
-}
 
-}
-\author{
-\strong{Maintainer}: KS Srikanth \email{sri.teach@gmail.com}
-
-}
